@@ -1,5 +1,5 @@
-# ibus-bijoy
-Ibus layout for using ANSI and Unicode Bijoy
+# ibus-victory-bn
+Ibus layout mimicking known properitery layouts, in ANSI and Unicode.
 
 # Overview
 Typing in Bangla in ANSI is always a problem. Typing it in Linux adds another level of complexity. This repository holds mim file to write Bangla just like writing in properitory OS.
