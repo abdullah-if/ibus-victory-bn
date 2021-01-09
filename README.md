@@ -3,7 +3,7 @@ Ibus layout for [Bijoy](https://en.wikipedia.org/wiki/Bengali_input_methods#Bijo
 
 ## Overview
 Typing in Bangla in ANSI is always a problem. Typing it in Linux adds another level of complexity. This repository holds mim file to write Bangla just like writing in properitory OSes.
-Here is layout corresponding the Bijoy classic and unicode. It uses the same backend as linux version of [Avro](https://en.wikipedia.org.wiki/ [ibus-avro](https://linux.omicronlab.com), [Ibus](https://github.com/ibus/ibus)
+Here is layout corresponding the Bijoy classic and unicode. It uses the same backend as linux version of [Avro](https://en.wikipedia.org.wiki/Avro_Keyboard) [ibus-avro](https://linux.omicronlab.com), [Ibus](https://github.com/ibus/ibus)
 
 ## Disclaimer
 I didn't write the mim files. They were collected from [here](https://web.archive.org/web/20201229055025/https://www.facebook.com/groups/linux.loverz/permalink/675008252586806)
