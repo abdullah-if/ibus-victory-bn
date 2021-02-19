@@ -31,4 +31,4 @@ The use of this properitory layout is controversial since its inception. The inv
 
 I have no intention to infringing copyright. If any official notice is provided, I may take down this repository.
 
-P.S.: Multiligualization database [m17n-db](https://savannah.nongnu.org/projects/m17n/) include the unicode layout under the name unijoy. So I think there is no reason that this repo infrings any copyright.
+P.S.: Multiligualization database [m17n-db](https://savannah.nongnu.org/projects/m17n/) include a slightly modified unicode layout under the name unijoy (Originally developed by Avro but later removed due to copyright claim).
