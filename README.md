@@ -13,8 +13,8 @@ I didn't write the mim files. They were collected from [here](https://web.archiv
 2. Ibus-m17n
 
 ## Usage
-1. Download the repo
-2. Run the scrip (root permission required)
+1. Download the repo (optional: if you want bijoy fonts to install coppy your bijoy fonts to fonts folder)
+2. Run the script (install.sh) and give password
 3. Add the layouts
   > ibus-setup => Input Method => Add => More => Bangla => bijoyClassic
 4. Enjoy
