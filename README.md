@@ -27,7 +27,7 @@ The layout is supposed to be licensed under [Copyright Act,2000](http://bdlaws.m
 
 The use of this properitory layout is controversial since its inception. The involved company seem to have a very complicted policy. For instances, they suppose to provide a [linux version of their product](https://bijoyekushe.net.bd/index.php?action=software) for [free](https://www.facebook.com/mustafajabbar49/posts/2099386236859530) but tries to charge 100 BDT but that is not even available in [download page](https://bijoyekushe.net.bd/index.php?action=software_activation). They also has a page dedicated for [it](http://www.bijoyekushe.net/index.php?action=ekushe_linux) but provide no idea how to get that.
 
-(For the starters, the developer is the minister of ICT and he kinda have monopoly in this regard. How come a properitory software be national standard! And also using ANSI is obsolate, and there exists a lot other options if one use Unicode, [see](https://openbangla.github.io/)).
+(For the starters, the developer is the minister of ICT and there exists a lot other options if one use Unicode, [see](https://openbangla.github.io/)).
 
 I have no intention to infringing copyright. If any official notice is provided, I may take down this repository.
 and ibus m17n is totally a opensource software.
