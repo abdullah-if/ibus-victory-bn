@@ -30,5 +30,6 @@ The use of this properitory layout is controversial since its inception. The inv
 (For the starters, the developer is the minister of ICT and he kinda have monopoly in this regard. How come a properitory software be national standard! And also using ANSI is obsolate, and there exists a lot other options if one use Unicode, [see](https://openbangla.github.io/)).
 
 I have no intention to infringing copyright. If any official notice is provided, I may take down this repository.
+and ibus m17n is totally a opensource software.
 
 P.S.: Multiligualization database [m17n-db](https://savannah.nongnu.org/projects/m17n/) include a slightly modified unicode layout under the name unijoy (Originally developed by Avro but later removed due to copyright claim).
