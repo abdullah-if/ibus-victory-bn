@@ -8,13 +8,13 @@ Here is layout corresponding the Bijoy classic and unicode. It uses the same bac
 ## Disclaimer
 I didn't write the mim files. They were collected from [here](https://web.archive.org/web/20201229055025/https://www.facebook.com/groups/linux.loverz/permalink/675008252586806)
 I just modified a little bit
-note:
-1. in e kar there was a problem that soace ekar was joinging 2 word and so i changed space c for matra less ekar to c space matra less ekar same goes to oikar and ' to ' 
+##note:
+1. in e kar there was a problem that soace ekar was joining 2 word and so i changed space c for matra less ekar to c space matra less ekar same goes to oikar and ' to ' 
 
 ## Requirements
 1. Ibus
 2. Ibus-m17n
-#note
+##note
 i would recommend you to buy the real version from Ananda Computers and take the font from there them use this software to install instead of their software as that has so many mistakes.
 ## Usage
 1. Download the repo (optional: if you want bijoy fonts to install coppy your bijoy fonts to fonts folder)
