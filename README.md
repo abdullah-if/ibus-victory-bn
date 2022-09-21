@@ -14,7 +14,8 @@ note:
 ## Requirements
 1. Ibus
 2. Ibus-m17n
-
+#note
+i would recommend you to buy the real version from Ananda Computers and take the font from there them use this software to install instead of their software as that has so many mistakes.
 ## Usage
 1. Download the repo (optional: if you want bijoy fonts to install coppy your bijoy fonts to fonts folder)
 2. Run the script (install.sh) and give password
