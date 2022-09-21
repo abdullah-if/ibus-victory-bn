@@ -7,6 +7,9 @@ Here is layout corresponding the Bijoy classic and unicode. It uses the same bac
 
 ## Disclaimer
 I didn't write the mim files. They were collected from [here](https://web.archive.org/web/20201229055025/https://www.facebook.com/groups/linux.loverz/permalink/675008252586806)
+I just modified a little 
+note:
+1. in e kar there was a problem that soace ekar was joinging 2 word and so i changed space c for matra less ekar to c space matra less ekar same goes to oikar and ' to ' 
 
 ## Requirements
 1. Ibus
